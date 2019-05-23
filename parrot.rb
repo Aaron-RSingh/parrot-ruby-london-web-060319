@@ -1,8 +1,8 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 def parrot(phrase=nil)
-  if phrase
-    puts "#{phrase}"
+  if phrase == nil
+    puts "Squawk!"
   else
     puts "Squawk!"
   end
