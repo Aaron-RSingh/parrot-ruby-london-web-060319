@@ -7,4 +7,4 @@ def parrot(phrase=nil)
     "Squawk!"
   end
 end
-p puts parrot
+p parrot
