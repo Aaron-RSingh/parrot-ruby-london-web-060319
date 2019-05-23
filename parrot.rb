@@ -9,3 +9,4 @@ def parrot(phrase=nil)
   p parrot
   end
 end
+p parrot
