@@ -6,4 +6,5 @@ def parrot(phrase=nil)
   else
     puts "#{phrase}"
   end
+  return phrase
 end
