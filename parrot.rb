@@ -2,8 +2,8 @@
 # returns the phrase
 def parrot(phrase==0)
   if phrase
-    "#{phrase}"
+   puts "#{phrase}"
   else
-    "Squawk!"
+  puts "Squawk!"
   end
 end
