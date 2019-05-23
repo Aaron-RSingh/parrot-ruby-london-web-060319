@@ -9,4 +9,4 @@ def parrot(phrase=nil)
   end
 end
 
-parrot
+print parrot
