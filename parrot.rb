@@ -8,4 +8,4 @@ def parrot(phrase=nil)
   end
 end
 
-print parrot
+return parrot
