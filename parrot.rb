@@ -6,5 +6,4 @@ def parrot(phrase=nil)
   else
     puts "Squawk!"
   end
-  
 end
