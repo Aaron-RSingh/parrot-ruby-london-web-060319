@@ -10,6 +10,3 @@ def parrot(phrase="Squawk!")
   end
   return phrase
 end
-
-dwayne.harmon@flatironschool.com
-@dwayne.
