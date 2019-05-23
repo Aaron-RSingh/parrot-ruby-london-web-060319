@@ -7,4 +7,4 @@ def parrot(phrase=nil)
     puts "Squawk!"
   end
 end
-return phrase
+return parrot
