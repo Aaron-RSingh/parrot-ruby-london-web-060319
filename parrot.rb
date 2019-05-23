@@ -5,6 +5,6 @@ def parrot(phrase=nil)
     "#{phrase}"
   else
     "Squawk!"
-  parrot
+  
   end
 end
