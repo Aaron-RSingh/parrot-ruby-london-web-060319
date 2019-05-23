@@ -5,6 +5,7 @@ require 'pry'
 def parrot(phrase=nil)
   if phrase == nil
     puts "Squawk!"
+    return phrase
   else
     puts phrase
   end
