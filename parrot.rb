@@ -8,8 +8,6 @@ def parrot(phrase=nil)
     puts "Squawk!"
   else
     puts phrase
-    user_name = "Aaron"
-    puts "Hey there #{user_name}, how are you?"
   end
   return phrase
 end
