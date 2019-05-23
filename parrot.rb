@@ -3,9 +3,7 @@
 def parrot(phrase=nil)
   if phrase
     "#{phrase}"
-    print parrot(phrase=nil)
   else
     "Squawk!"
-    print parrot(phrase=nil)
   end
 end
